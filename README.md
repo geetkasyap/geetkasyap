@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/geetkasyap">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=72DDB4&center=true&vCenter=true&width=760&lines=Hey+there%2C+I'm+Geet+Kasyap+%F0%9F%91%8B;Machine+Learning+Developer+%C2%B7+.NET+Full-Stack+Engineer;I+build+agentic+AI%2C+RAG+pipelines+%26+full-stack+apps;Creator+of+Weapon+Cycle+%E2%80%94+an+open-source+Windows+launcher;Portfolio+%E2%86%92+geetkasyap.com" alt="Typing animation">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=72DDB4&center=true&vCenter=true&width=760&lines=Hey+there%2C+I'm+Geet+Kasyap+%F0%9F%91%8B;Machine+Learning+Developer+%C2%B7+.NET+Full-Stack+Engineer;I+build+agentic+AI%2C+RAG+pipelines+%26+full-stack+apps;Creator+of+Weapon+Cycle+%E2%80%94+an+open-source+Windows+launcher;Portfolio+%E2%86%92+geetkasyap.vercel.app" alt="Typing animation">
   </a>
 </p>
 
@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/geet-kasyap"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:geetkasyap291@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <!-- PORTFOLIO: replace https://geetkasyap.com below with your real URL -->
-  <a href="https://geetkasyap.vercel.app"><img src="https://img.shields.io/badge/Portfolio-geetkasyap.com-72DDB4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio"></a>
+  <a href="https://geetkasyap.vercel.app"><img src="https://img.shields.io/badge/Portfolio-geetkasyap.vercel.app-72DDB4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio"></a>
   <img src="https://komarev.com/ghpvc/?username=geetkasyap&style=for-the-badge&color=72DDB4&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
