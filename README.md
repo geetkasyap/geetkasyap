@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/geet-kasyap"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:geetkasyap291@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <!-- PORTFOLIO: replace https://geetkasyap.com below with your real URL -->
-  <a href="https://geetkasyap.com"><img src="https://img.shields.io/badge/Portfolio-geetkasyap.com-72DDB4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio"></a>
+  <a href="https://geetkasyap.vercel.app"><img src="https://img.shields.io/badge/Portfolio-geetkasyap.com-72DDB4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio"></a>
   <img src="https://komarev.com/ghpvc/?username=geetkasyap&style=for-the-badge&color=72DDB4&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
@@ -107,7 +107,7 @@ class GeetKasyap:
 
 <p align="center">
   Open to conversations about <b>applied AI</b>, <b>agentic systems</b>, <b>.NET / Angular platforms</b> and <b>developer tools</b>.<br>
-  <a href="https://www.linkedin.com/in/geet-kasyap">LinkedIn</a> · <a href="mailto:geetkasyap291@gmail.com">Email</a> · <a href="https://geetkasyap.com">Portfolio</a>
+  <a href="https://www.linkedin.com/in/geet-kasyap">LinkedIn</a> · <a href="mailto:geetkasyap291@gmail.com">Email</a> · <a href="https://geetkasyap.vercel.app">Portfolio</a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:72DDB4&height=120&section=footer&text=Useful%20software.%20Less%20friction.&fontSize=22&fontColor=E6EDF3&fontAlignY=70" width="100%" alt="">
