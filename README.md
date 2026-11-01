@@ -39,7 +39,7 @@ I'm a **Machine Learning Developer** in Bengaluru, India 🇮🇳, working where
 
 ```python
 class GeetKasyap:
-    role      = "Machine Learning Developer"
+    role      = "Machine Learning Developer and .Net Full Stack Developer"
     based_in  = "Bengaluru, India"
     ai        = ["LangChain", "LangGraph", "RAG", "OpenAI", "pgvector", "ChromaDB"]
     backend   = ["C#", ".NET 8", "Python", "FastAPI", "SQL"]
